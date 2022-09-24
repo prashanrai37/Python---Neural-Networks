@@ -1,4 +1,4 @@
-# Python---Neural-Networks
+# Python-Neural-Networks
 
 ## Overview
 The two tasks focused on creating multiple neutral networks and using different architectures and methods. The networks were trained using back propagation and/or front propagation and were parameterizable.
