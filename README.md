@@ -1,7 +1,7 @@
 # Python-Neural-Networks
 
 ## Overview
-The two tasks focused on creating multiple neutral networks and using different architectures and methods. The networks were trained using back propagation and/or front propagation and were parameterizable.
+The two tasks focused on creating multiple neutral networks and using different architectures and methods. The networks were trained using backpropagation and/or front propagation and were parameterizable.
 
 ### Task 1
 Network 1\
@@ -9,7 +9,7 @@ The neural network is built using 2 hidden layers and one output layer with Sigm
 
 ![image](https://user-images.githubusercontent.com/76526590/192114590-df68bb0a-55ce-4892-93b6-50171bf4861a.png)
 
-Based on the graphs generated the network initially starts with a low accuracy, but is able to learn how to label the correct item exponentially quickly within the first 50 epochs rising from 10% accuracy and starts to level out from 50 to 300 which is common for most neural networks of this kind. According to figure Trouser was the most accurately labelled where ass the shirt was least accurately. I most commonly being mistaken for the pullovers, mostly probably and mistaking T-shirt for Shirt again probably due to their similar appearances, other methods may be better at dealing with spareness and fine-grained classes. This seems like a common case example as scandals are also commonly mistaken for sneakers, this suggests similar looking items we commonly mistaken. One of the benefits of using this method is the dramatic reduction in the size of the data, over time requiring less space over time.\
+Based on the graphs generated the network initially starts with a low accuracy, but is able to learn how to label the correct item exponentially quickly within the first 50 epochs rising from 10% accuracy and starts to level out from 50 to 300 which is common for most neural networks of this kind. According to figure Trouser was the most accurately labeled whereas the shirt was the least accurately. I most commonly being mistaken for the pullovers, mostly probably and mistaking T-shirt for Shirt again probably due to their similar appearances, other methods may be better at dealing with spareness and fine-grained classes. This seems like a common case example as scandals are also commonly mistaken for sneakers, this suggests similar looking items we commonly mistaken. One of the benefits of using this method is the dramatic reduction in the size of the data, over time requiring less space over time.\
 
 Figure 1:
 
