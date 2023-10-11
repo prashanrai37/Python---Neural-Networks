@@ -5,7 +5,7 @@ The two tasks focused on creating multiple neutral networks and using different 
 
 ### Task 1
 Network 1\
-The neural network is built using 2 hidden layers and one output layer with Sigmoid activation functions. As the widths are getting shorter it simulates dimensionality reduction. The network was trained with aa learning rate of 1e-5 over 300 iterations.
+The neural network is built using 2 hidden layers and one output layer with Sigmoid activation functions. As the widths are getting shorter it simulates dimensionality reduction. The network was trained with a learning rate of 1e-5 over 300 iterations.
 
 ![image](https://user-images.githubusercontent.com/76526590/192114590-df68bb0a-55ce-4892-93b6-50171bf4861a.png)
 
